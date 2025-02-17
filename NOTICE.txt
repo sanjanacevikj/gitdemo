@@ -9,3 +9,5 @@ sanja made a change here.
 change from person x - stefan
 
 adding changes from the branch develop
+
+different person stefan added changes from branch develop
